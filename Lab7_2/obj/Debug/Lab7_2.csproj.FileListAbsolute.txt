@@ -1,0 +1,6 @@
+C:\Users\Вульчак Павло\Desktop\пари\лаби з ооп\Lab7_2\Lab7_2\bin\Debug\Lab7_2.exe.config
+C:\Users\Вульчак Павло\Desktop\пари\лаби з ооп\Lab7_2\Lab7_2\bin\Debug\Lab7_2.exe
+C:\Users\Вульчак Павло\Desktop\пари\лаби з ооп\Lab7_2\Lab7_2\bin\Debug\Lab7_2.pdb
+C:\Users\Вульчак Павло\Desktop\пари\лаби з ооп\Lab7_2\Lab7_2\obj\Debug\Lab7_2.csprojAssemblyReference.cache
+C:\Users\Вульчак Павло\Desktop\пари\лаби з ооп\Lab7_2\Lab7_2\obj\Debug\Lab7_2.exe
+C:\Users\Вульчак Павло\Desktop\пари\лаби з ооп\Lab7_2\Lab7_2\obj\Debug\Lab7_2.pdb
